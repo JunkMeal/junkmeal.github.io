@@ -12,4 +12,4 @@ Saying "My favourite animes are..." or "I read a lot of mangas." is incorrect.
 2. The words “anime” and "manga" originates from Japanese. Japanese doesn't have plurals in the English sense, they are understood by context or by counters.
 
 3. If you search "animes" or "mangas" on Oxford dictionary it doesn't exist.
-<img src="/assets/images/oxforddic.png" alt="Screenshot" width="200"/>
+![Screenshot](/assets/images/oxforddic.png)
