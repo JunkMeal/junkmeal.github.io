@@ -1,15 +1,15 @@
 entries:
   - title: about me
     entries:
-    - title: I am a programator (Node, Go, Java...) from the Czech Republic 🇨🇿
+    - title: i am a programator (Node, Go, Java...) from the Czech Republic
     - title: contact
       entries:
         - title: "discord: JunkMeal#5421"
         - title: "email: non existent at the moment"
     - title: check my <a href="https://github.com/JunkMeal/">github</a>
-  - title: posts
+  - title: blog
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See all posts
-      show_more_url: posts
+      show_more_text: see all posts
+      show_more_url: blog

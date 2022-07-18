@@ -1,4 +1,4 @@
 ---
 layout: archive
-title: Posts
+title: Blog
 ---
