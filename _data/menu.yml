@@ -1,5 +1,6 @@
 entries:
   - title: about me
+    entries:
     - title: I am a programator (Node, Go, Java...) from the Czech Republic 🇨🇿
     - title: contact
       entries:
