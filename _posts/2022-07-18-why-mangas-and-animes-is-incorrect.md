@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Stop saying "animes" and "mangas""
+title:  "Why mangas and animes is incorrect"
 ---
 
 # Introduction
