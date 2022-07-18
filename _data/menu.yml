@@ -1,7 +1,7 @@
 entries:
   - title: posts
-  post_list:
-    limit: 5
-    show_more: true
-    show_more_text: See all posts
-    show_more_url: posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See all posts
+      show_more_url: posts
